@@ -1,0 +1,62 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color:black;
+    font-family: verdana;
+    font-size: 250%;
+}
+h2 {
+    color:black;
+    font-family: verdana;
+    font-size: 150%;
+}
+p {
+    color: black;
+    font-family: verdana;
+}
+h3 {
+    color: black;
+    font-family: verdana;
+}
+h4 {
+    color: black;
+    font-family: verdana;
+    font-weight: normal;
+    display: flex;
+}
+h5 {
+    color: black;
+    font-family: verdana;
+    font-size: 150%
+}
+a:visited {
+    color:greenyellow;
+}
+a:hover{
+    color:greenyellow;
+}
+table,th,td {
+    color:black;
+    border: 1px solid black;
+    font-family: verdana;
+}
+.list {
+    color: black;
+    font-family: Calibri;
+    columns: 3;
+    font-weight: bold;
+}
+.column {
+    width: 300px;
+    height: 300px;
+    border: 5px black;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
+.header img {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+  }
